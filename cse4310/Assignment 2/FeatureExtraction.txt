@@ -1,0 +1,23 @@
+General Comments:
+All of the files should contain comments that are easy to follow and should explain what I am doing and where. For the general outline of feature_extraction.py, I am loading the data and converting the data to type uint8. Then I reshape X_train and X_test so the data can be in the form of (num_images, height, width, num_channels). I convert X_train and X_test to gray scale so the images are easier read, and then I extract the SIFT features and HOG features from X_train and X_test. After that, I call SIFT() to get the keypoints and descriptors for the two images I will match and plot. I plot the same images since I want to show my implementation of match_desc is correct, showing horizontal lines plotted from each feature from both images. Finally, I save the features to their respective files, passing in all of the data needed. Then in both of the evaluate test files, I load the data and create an SVM model, train that model, and predict the labels for each test set. I use the prediction to calculate the total amount of correct matches. I then evaluate the model and get back the accuracy of the model and print it along with the correct number of matches from SIFT and HOG.
+
+
+Requirements:
+
+1. 248,285 SIFT features extracted from 15,986 images (out of 16,000) from the Train set. 62,283 SIFT features extracted from 3,994 images (out of 4,000) from the Test set. 16,000 HOG feature vectors (one per image) from the Train set. 4,000 HOG feature vectors (one per image) from the Test set.
+
+2. The number of correct matches found for the SIFT test set are 499 out of 3994 matches. The number of correct matches found for the HOG test set are 2036 out of 4000.
+
+3.
+Sift SVM    
+SVM accuracy: 0.12
+
+HOG SVM    
+SVM accuracy: 0.51
+
+
+Questions:
+
+1. A process for performing keypoint matching using HOG features could be that you can use the bag of visual words approach. You could go through the images and while you are computing SIFT keypoints and descriptors, you can take the keypoints from each image and then take a patch around that keypoint and say for that patch at that keypoint, extract a HOG feature instead. You can then use the Bag of Visual Words with those new HOG features.
+
+2. I think HOG performed better than SIFT, 51% compared to 12%, because the images we are getting from this data set are really small, 32x32 I believe, so there won't be a lot of distinct features from the images. For 20 of the images, SIFT couldn't detect any features while HOG takes a feature for the whole image. This allows HOG to get better results than SIFT for this dataset. If you were to scale the resolution for the images, then SIFT would probably perform better than HOG.
