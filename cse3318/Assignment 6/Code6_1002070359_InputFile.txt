@@ -1,0 +1,35 @@
+Luffy|5.708|M|19
+Zoro|5.938|M|21
+Nami|5.577|F|20
+Usopp|5.774|M|19
+Sanji|5.905|M|21
+Chopper|2.952|M|17
+Robin|6.102|F|30
+Franky|24.278|M|36
+Brook|9.087|M|90
+Jimbei|9.875|M|46
+Trafalgar Law|6.266|M|26
+Sabo|6.135|M|22
+Ace|6.069|M|20
+Yamato|8.628|F|28
+Shanks|6.528|M|39
+Corazon|9.612|M|26
+Doflamingo|10.006|M|41
+Blackbeard|11.286|M|40
+Whitebeard|21.850|M|72
+Gold Roger|8.989|M|53
+Kuina|4.921|F|11
+Mihawk|6.496|M|43
+Makino|5.446|F|31
+Silvers Rayleigh|6.168|M|78
+Garp|9.416|M|78
+Tsuru|6.692|F|76
+Akainu|10.039|M|55
+Aokiji|9.776|M|49
+Kizaru|9.908|M|58
+Perona|5.249|F|25
+Boa Hancock|6.2664|F|31
+Hiriluk|6.988|M|68
+Charlotte Linlin|28.871|F|68
+Marco|6.660|M|45
+Jewelry Bonney|5.708|F|24

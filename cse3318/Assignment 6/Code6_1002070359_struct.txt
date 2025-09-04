@@ -1,0 +1,9 @@
+typedef struct OnePiece
+{
+    char *name;
+    float height;
+    char gender;
+    int age;
+    struct OnePiece *next_ptr;
+}
+ONEPIECE;
