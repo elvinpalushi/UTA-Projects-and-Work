@@ -1,0 +1,1 @@
+public enum Color{CHARTREUSE, ISABELLINE, LILAC, PEACH}

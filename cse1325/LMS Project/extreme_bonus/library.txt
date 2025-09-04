@@ -1,0 +1,21 @@
+Animal Farm, George Orwell, 1945
+The Hobbit, J.R.R. Tolkien, 1937
+Peter Pan, J.M. Barrie, 1904
+Pride and Prejudice, Jane Austen, 1913
+To Kill a Mockingbird, Harper Lee, 1960
+The Great Gatsby, F. Scott Fitzgerald, 1925
+The Picture of Dorian Gray, Oscar Wilde, 1910
+To the Lighthouse, Virginia Woolf, 1927
+Frankenstein, Mary Shelley, 1923
+The Count of Monte Cristo, Alexandre Dumas, 1944
+Julius Caesar, kingof@rome.com
+Martin Luther, reformist@95theses.com
+Isaac Newton, gravity@apple.com
+Theodore Roosevelt, unitedstates@president.com
+Ludwig van Beethoven, thebest@composer.com
+Leonardo da Vinci, alsothebest@painter.com
+Edgar Allan Poe, crow@gothic.com
+Elvis Presley, memphis@guitar.com
+Star Wars: Episode I - The Phantom Menace, George Lucas, 1999, 133
+The Godfather, Francis Ford Coppola, 1972, 175
+The Dark Knight, Christopher Nolan, 2008, 152
