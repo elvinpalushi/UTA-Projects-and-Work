@@ -1,7 +1,7 @@
 
 ## Building off of Tekolio
 
-My group and I adapted this code and built off of it from [Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/), specifically [Ateev Duggal](https://github.com/Ateevduggal/The-Movie-Central) who wrote the article and the baseline code for the project.
+My group and I adapted this code and built off of it from [Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/), specifically [Ateev Duggal](https://github.com/Ateevduggal/The-Movie-Central) who wrote the article and the code baseline for the project.
 
 ## The BingeSpot Website
 
